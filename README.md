@@ -11,4 +11,4 @@ Taken from his Sourceforge page: http://sourceforge.net/projects/thedeck/
 addon module that allows forensic investigation of USB devices.
 
 **ToDo:**
-*Finish port*
+**Finish port**
