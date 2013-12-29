@@ -1,8 +1,6 @@
 4deck
 =====
 
-**Port is currently a WIP!**
-
 4deck port for Arch Linux 
 
 All original/upstream work done by Dr. Philip Polstra.
