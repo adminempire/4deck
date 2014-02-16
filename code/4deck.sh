@@ -20,7 +20,7 @@
 # Enough blabbing - let's get on with it
 #
 # This is no longer an install script
-# Port to BlackArch Linux done by Jeremy Lynch
+# Port to ArchAssault Linux done by Jeremy Lynch
 #
 #
 unset VID
