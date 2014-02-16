@@ -4,7 +4,7 @@
 4deck port for ArchAssault
 
 
-This was originally ported to Arch Linux ARM Wilson repo. The Wilson repo is merging with ArchAssault due to there being overlap and similar goals. Moving my changes to github.
+This was originally ported to the Arch Linux ARM Wilson repo. The Wilson repo has merged with ArchAssault due to there being overlap and similar goals. Moving my changes to github.
 
 All original/upstream work done by Dr. Philip Polstra.
 
